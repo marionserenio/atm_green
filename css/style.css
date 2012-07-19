@@ -1,0 +1,17 @@
+//style.less for instacashatm.com
+//author : Marion Serenio
+//author site : www.marionserenio.com
+//Date started : 11:05 PM 12/29/2011
+
+
+//fonts
+@font-face {
+  font-family:"Bebas"; 
+  src: url("css/BEBAS.TTF");
+  src:url("css/BEBAS.TTF") format("opentype"); 
+}
+@font-face {
+  font-family:"Rock"; 
+  src: url("css/rock.TTF");
+  src:url("../css/rock.TTF") format("truetype"); 
+}
